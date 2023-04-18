@@ -6,7 +6,7 @@
     "price": 1300,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_957657-MLA53233576692_012023-O.webp"],
     "code": "fj29rmgn12",
-    "stock": 19,
+    "stock": 23,
     "category": "technology",
     "status": true
   },
@@ -17,7 +17,7 @@
     "price": 470,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_973048-MLA48623275528_122021-O.webp"],
     "code": "a1or9w34",
-    "stock": 47,
+    "stock": 15,
     "category": "technology",
     "status": true
   },
@@ -28,7 +28,7 @@
     "price": 870,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_666095-MLA52218182586_102022-O.webp"],
     "code": "94doS12q",
-    "stock": 20,
+    "stock": 16,
     "category": "technology",
     "status": true
   },
@@ -39,7 +39,7 @@
     "price": 15,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_804465-MLA43632432319_092020-O.webp"],
     "code": "kf4l2s01",
-    "stock": 38,
+    "stock": 14,
     "category": "technology",
     "status": true
   },
@@ -50,7 +50,7 @@
     "price": 50,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_831607-MLA52350664966_112022-O.webp"],
     "code": "0fdp22S1",
-    "stock": 76,
+    "stock": 36,
     "category": "technology",
     "status": true
   },
@@ -61,7 +61,7 @@
     "price": 12,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_647216-MLA52048668918_102022-O.webp"],
     "code": "0fgk82S1",
-    "stock": 34,
+    "stock": 6,
     "category": "sport",
     "status": true
   },
@@ -72,7 +72,7 @@
     "price": 3200,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_769002-MLA48801643166_012022-O.webp"],
     "code": "24mf9r7t",
-    "stock": 15,
+    "stock": 21,
     "category": "instruments",
     "status": true
   },
@@ -83,7 +83,7 @@
     "price": 500,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_916368-MLA45756565004_042021-O.webp"],
     "code": "k2ps39c5",
-    "stock": 20,
+    "stock": 31,
     "category": "instruments",
     "status": true
   },
@@ -94,7 +94,7 @@
     "price": 105,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_967278-MLA32660949101_102019-O.webp"],
     "code": "G7sa4dO9a",
-    "stock": "12",
+    "stock": 5,
     "category": "instruments",
     "status": true
   },
@@ -105,7 +105,7 @@
     "price": 159,
     "thumbnail": ["https://http2.mlstatic.com/D_NQ_NP_704674-MLA51734752568_092022-O.webp"],
     "code": "xM7s3Ju28",
-    "stock": "32",
+    "stock": 17,
     "category": "furniture",
     "status": true
   }
